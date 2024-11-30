@@ -79,15 +79,15 @@ python -m venv venv
 
 #### Run CLI
 
-    ```bash
-    python main.py
-    ````
+  ```bash
+  python main.py
+  ```
 
 #### Run API
 
-    ```bash
-    python api.py
-    ```
+  ```bash
+  python api.py
+  ```
 
 ### Example API Queries
 
